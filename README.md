@@ -1,2 +1,4 @@
-# Bash Scripts
-- [Docker Rebuild](https://t.me/devopsinsight/13)
+# DevOps Insight(s) Repository
+
+## Bash Scripts
+- [Docker Rebuild](bash-scripts/docker-rebuild.sh) -> [Post link](https://t.me/devopsinsight/13)
